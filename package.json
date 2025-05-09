@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nestjs/axios": "^3.0.2",
+    "@nestjs/axios": "^4.0.0",
     "axios": "^1.7.7"
   }
 }
